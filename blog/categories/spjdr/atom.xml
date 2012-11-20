@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: spjdr | My Octopress Blog]]></title>
+  <title><![CDATA[Category: spjdr | spjdr.dk]]></title>
   <link href="http://spjdr.github.com/blog/categories/spjdr/atom.xml" rel="self"/>
   <link href="http://spjdr.github.com/"/>
-  <updated>2012-11-20T22:58:05+01:00</updated>
+  <updated>2012-11-20T23:06:41+01:00</updated>
   <id>http://spjdr.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Kim G L Pedersen]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
